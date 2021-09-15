@@ -1,0 +1,55 @@
+body{
+    margin: 10px;
+    padding: 10px;
+}
+form{
+     background: #0c0f38;
+     padding: 55px 55px;
+     border-radius: 50px;
+     max-width: 500px;
+     margin-bottom: -58%;
+     margin: auto;
+     
+}
+formm{
+    font-size: 16px;
+    background: #ccc;
+    max-width: 500px;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+h1{
+  color: #2a6496;
+}
+label{
+    color: #2a6496
+}
+campo input{    
+    width: 470px;
+    padding: 10px;
+}
+.enviar input{
+    background: #2a6496;
+    height: 40px;
+    width: 400px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 1px solid;
+    color: #fff;
+    cursor: pointer;
+}
+.inicio a{
+    background: #2a6496;
+    height: 400px;
+    width: 400px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: 10px solid;
+    color: #fff;
+    cursor: pointer;  
+}
+
+.enviar input:hover{
+    background: #078;
+}
